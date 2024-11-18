@@ -197,6 +197,5 @@ This project is licensed under the MIT License
 
 For support:
 - Open an issue
-- Email: support@example.com
-- Documentation: [Wiki](link-to-wiki)
+- Email: purishardul249@gmail.com
 "# MailFlow-Pro" 
